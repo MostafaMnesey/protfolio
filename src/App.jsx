@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav from './Comps/Nav/Nav'
-import './app.css'
+import './App.css'
 import 'flowbite';
 import Footer from './Comps/Footer/Footer';
 import '@fortawesome/fontawesome-free/css/all.css';
